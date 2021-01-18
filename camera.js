@@ -1,1 +1,3 @@
-let camera = null
+let camera = null;
+let renderer = null;
+
